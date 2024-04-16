@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ARLocation/Samples/Main.unity
+    guid: 5a854ef2dc380f7479d3820a2c0df2cd
+  - enabled: 0
+    path: Assets/_AR-Geolocation/Level/Scenes/Main.unity
+    guid: c3be77dc54506814688e30dd10579753
+  - enabled: 0
+    path: Assets/ARLocation/Experimental/World Builder/AR+GPS Location World Builder.unity
+    guid: 423d0c8b7cbc90442a84476074b7e313
+  - enabled: 0
+    path: Assets/ARLocation/Experimental/World Voxel Craft/AR+GPS Location World
+      Voxel.unity
+    guid: 1dda82d1016d23e459e52374ececdccf
+  - enabled: 0
+    path: Assets/ARLocation/Samples/ARLocation 3D Text.unity
+    guid: 5c043518199ea024ead87bc2f9450641
+  - enabled: 0
+    path: Assets/ARLocation/Samples/ARLocation Basic.unity
+    guid: 7dffd400607cdc24ea32e2d34f53fe95
+  - enabled: 0
+    path: Assets/ARLocation/Samples/ARLocation Hotspot.unity
+    guid: ba581dfe789e28e47b06ed0589afffc0
+  - enabled: 0
+    path: Assets/ARLocation/Samples/ARLocation Jet Fighter.unity
+    guid: 3d18decc3ae584bd1976e177bfee6eee
+  - enabled: 0
+    path: Assets/ARLocation/Samples/ARLocation Jet Fighter Squad.unity
+    guid: 7f4e9a6e77b8d0e48a7db67367844a80
+  - enabled: 0
+    path: Assets/ARLocation/Samples/ARLocation Path Line Render.unity
+    guid: ec4131c10e5845843ae2f6fb5e664da2
+  - enabled: 0
+    path: Assets/ARLocation/Samples/ARLocation Place Along Path.unity
+    guid: 309466762fcf26b48baca5eb8055b7f0
+  - enabled: 0
+    path: Assets/ARLocation/Samples/ARLocation Place At Locations.unity
+    guid: 4d2175edcfda79b4cbe8c129b88a69a2
+  - enabled: 0
+    path: Assets/ARLocation/Mapbox Routes/Scenes/Mapbox Route Basic.unity
+    guid: 4e05641e1f17b441b8d167fa5f8a308d
+  - enabled: 0
+    path: Assets/ARLocation/Mapbox Routes/Scenes/Mapbox Route With Search.unity
+    guid: 3d7f39a6ae7594e8191b21466d209e8a
+  - enabled: 0
+    path: Assets/ARLocation/Mapbox Routes/Materials/New Scene.unity
+    guid: 18f631636c650402f87e0fea79de41ff
+  - enabled: 0
+    path: Assets/ARLocation/Samples/test.unity
+    guid: e859ec164f85f57499c06381eafb6920
+  - enabled: 0
+    path: Assets/_AR-Geolocation/Level/Scenes/testingwalkingpath.unity
+    guid: 47d3282993bcb7d459a8f706614cd43d
+  - enabled: 0
+    path: Assets/_AR-Geolocation/Level/Scenes/testingkirana.unity
+    guid: e9f14916183c40a4d92a0242203cc79b
+  - enabled: 0
+    path: Assets/_AR-Geolocation/Level/Scenes/PlaceObject.unity
+    guid: 5d2770fde68bba44bbf641f35c24939b
+  - enabled: 0
+    path: Assets/ARLocation/Samples/ARLocation Walking Dead.unity
+    guid: e59d2570271b2cf4ba157b8d7232b586
+  - enabled: 0
+    path: Assets/_AR-Geolocation/Level/Scenes/phoenix.unity
+    guid: d4f44b4e7f1898b49b90f53969ebe5d8
+  - enabled: 0
+    path: Assets/ARLocation/Samples/ARLocation Web Map Loader.unity
+    guid: 6ba4e1ff819990d4a9fd03b1bdb63b58
+  - enabled: 0
+    path: Assets/_AR-Geolocation/Level/Scenes/testingpens.unity
+    guid: 78cc018579bb520468593bf6966d8c7c
+  - enabled: 0
+    path: Assets/Plugins/VoxelBusters/CrossPlatformReplayKit/Demo/Scenes/ReplayKitDemo.unity
+    guid: 4b2cee09b79e24b14ad386f60cb33b27
+  - enabled: 0
+    path: Assets/Plugins/SunShine Android Native Screen Recorder/Example/Example
+      Scene.unity
+    guid: 90cfde83d142548169e5b7dd229fd9c7
+  - enabled: 1
+    path: Assets/_AR-Geolocation/Level/Scenes/MainMenu.unity
+    guid: 8ae491d6880c0c740add565437198f7d
+  - enabled: 1
+    path: Assets/_AR-Geolocation/Level/Scenes/PlacingNew.unity
+    guid: 827bfae4f47403d439f5261bc0fc5707
+  - enabled: 1
+    path: Assets/_AR-Geolocation/Level/Scenes/Geolocation.unity
+    guid: edd415777334fb243b58629c8984d31e
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a4443e2a28d928f4ab37bcf093a887d7, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: dbc09fb76e3539446884fc7322c6ad17, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 46962b2d8c21e86428519251dd8fa0dc, type: 2}
